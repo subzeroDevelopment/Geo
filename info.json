@@ -1,0 +1,84 @@
+﻿{
+   "hotspots":[
+      {
+         "id":"SalsaNaMa",
+         "anchor":{
+            "geolocation":{
+               "lat":17.063239,
+               "lon":-96.723292
+            }
+            },
+            "text":{
+            "title":"Salsa NaMa",
+            "description":"La mejor escuela de baile en el estado, contamos con una gran variedad de ritmos (Salsa, bachata, cumbia, mergengue, hip-hop, etc.). Costo de la mensualidad: $350. Toma tu clase de prueba GRATIS",
+            "footnote":"16:00 - 21:00, Lunes - Domingo"
+            },
+            "imageURL":"http://www.casadelbaile.cl/wp-content/uploads/2012/08/profesor-de-salsa-cubana001.jpg"
+      },
+      {
+         "id":"candela",
+         "anchor":{
+            "geolocation":{
+            "lat":17.063000204874196,
+            "lon":-96.72043770000005
+            }
+         },
+         "text":{
+         "title":"Candela",
+         "Description":"Escuela de Baile para principantes, econ�mica y un lugar muy privado y reservado para aprender a bailar",
+         "footnote":"16:00-20:00  Lunes-Domingo"
+         },
+         "imageURL":"http://www.pozuelodetiendas.es/sites/default/files/salon.jpg"
+      },
+      {
+         "id":"SweetleDance",
+         "anchor":{
+            "geolocation":{
+               "lat":17.457559,
+               "lon":-97.228024
+            }
+         },
+         "text":{
+         "title":"Sweetie Dance",
+         "Description":"La escuela de Ballet por excelencia, ven y conoce nuestras instalaciones. Costo de la mensualidad: $250",
+         "footnote":"16:00-20:00  Lunes-Viernes"
+         },
+         "imageURL":"http://www.nodolab.com/wp-content/uploads/2011/08/m-ballet.jpg"
+      },
+      {
+         "id":"acuyuye",
+         "anchor":{
+            "geolocation":{
+               "lat":17.057853,
+               "lon":-96.723695
+            }
+         },
+         "text":{
+            "title":"Acuyuyé",
+            "description":"Academia de baile. Aprende a bailar en el mejor lugar",
+            "footnote":"17:00 - 22:00"
+         },
+
+         "imageURL":"https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11694094_865788566823971_4546524477417159179_n.jpg?oh=ed3b049f7b5f47a532d93412c519a174&oe=5665405F"
+      },
+      {
+         "id":"academiaSanMartin",
+         "anchor":{
+            "geolocation":{
+               "lat":17.064066,
+               "lon":-96.748571
+            }
+         },
+         "text":{
+            "title":"Academia de Baile RITMO Y SABOR 'San Martín' ",
+            "description":"El mejor lugar para aprender a bailar",
+            "footnote":"17:00 - 22:00"
+         },
+
+         "imageURL":"http://www.ritmoysabor.com.mx/upload/slider3.png"
+      }
+   ],
+   "layer":"escuelasdebay0fw",
+   "errorString":"ok",
+   "errorCode":0
+}

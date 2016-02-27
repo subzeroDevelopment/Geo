@@ -1,0 +1,11 @@
+"geolocation":{
+   "lat":latitud que les de el mapa de google,
+   "lon":longitud que les de el mapa de google
+}
+},
+"text":{
+"title":"Nombre de la escuela",
+"description":"Alguna descripcion",
+"footnote":"horario"
+},
+"imageURL":"alguna imagen que quieran que se vea al ver la escuela la imagen debe ser la direccion url de esa imagen"
