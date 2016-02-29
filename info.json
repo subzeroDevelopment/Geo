@@ -43,23 +43,23 @@
          "Description":"biblioteca publica",
          "footnote":"16:00-20:00  Lunes-Viernes"
          },
-         "imageURL":"http://www.nodolab.com/wp-content/uploads/2011/08/m-ballet.jpg"
+         "imageURL":"http://www.travelbymexico.com/oaxaatr/oaxa4651RJE.jpg"
       },
       {
-         "id":"acuyuye",
+         "id":"iago",
          "anchor":{
             "geolocation":{
-               "lat":17.057853,
-               "lon":-96.723695
+               "lat":17.0663751,
+               "lon":-96.7240473
             }
          },
          "text":{
-            "title":"Acuyuyé",
-            "description":"Academia de baile. Aprende a bailar en el mejor lugar",
+            "title":"Instituto de Artes Graficas de Oaxaca",
+            "description":"iago",
             "footnote":"17:00 - 22:00"
          },
 
-         "imageURL":"https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11694094_865788566823971_4546524477417159179_n.jpg?oh=ed3b049f7b5f47a532d93412c519a174&oe=5665405F"
+         "imageURL":"http://www.mexicoescultura.com/galerias/espacios/principal/iago001.jpg"
       },
       {
          "id":"academiaSanMartin",
