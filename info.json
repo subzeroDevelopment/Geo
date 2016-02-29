@@ -10,7 +10,7 @@
             },
             "text":{
             "title":"Provedora Escolar",
-            "description":"Ing de Software Somerville",
+            "description":"Ing de Software Somerville 9",
             "footnote":"9:00 - 20:00, Lunes - Sabado"
             },
             "imageURL":"http://farm8.staticflickr.com/7048/6988523505_8b711d65a6.jpg"
@@ -40,7 +40,7 @@
          },
          "text":{
          "title":"Biblioteca Publica Central Margarita Maza de Juarez",
-         "Description":"biblioteca publica",
+         "Description":"Ingenieria de software Roger Pressman",
          "footnote":"16:00-20:00  Lunes-Viernes"
          },
          "imageURL":"http://www.travelbymexico.com/oaxaatr/oaxa4651RJE.jpg"
@@ -55,30 +55,30 @@
          },
          "text":{
             "title":"Instituto de Artes Graficas de Oaxaca",
-            "description":"iago",
+            "description":"libro de Ingenieria de Software Somerville 9",
             "footnote":"17:00 - 22:00"
          },
 
          "imageURL":"http://www.mexicoescultura.com/galerias/espacios/principal/iago001.jpg"
       },
       {
-         "id":"academiaSanMartin",
+         "id":"cuboDrLimon",
          "anchor":{
             "geolocation":{
-               "lat":17.064066,
-               "lon":-96.748571
+               "lat":17.0772143,
+               "lon":-96.7450984
             }
          },
          "text":{
-            "title":"Academia de Baile RITMO Y SABOR 'San Martín' ",
-            "description":"El mejor lugar para aprender a bailar",
-            "footnote":"17:00 - 22:00"
+            "title":"Cubiculo Dr. Limon",
+            "description":"Ing de Software Somerville,Pressman,Java",
+            "footnote":""
          },
 
-         "imageURL":"http://www.ritmoysabor.com.mx/upload/slider3.png"
+         "imageURL":"http://www.itoaxaca.edu.mx/web/wp-content/uploads/2015/12/premio-odbmx.jpeg"
       }
    ],
-   "layer":"escuelasdebay0fw",
+   "layer":"ingdesoftwarl6ny",
    "errorString":"ok",
    "errorCode":0
 }
