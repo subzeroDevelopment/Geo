@@ -1,19 +1,19 @@
 ﻿{
    "hotspots":[
       {
-         "id":"SalsaNaMa",
+         "id":"",
          "anchor":{
             "geolocation":{
-               "lat":17.063239,
-               "lon":-96.723292
+               "lat":17.0614252,
+               "lon":-96.7209423
             }
             },
             "text":{
-            "title":"Salsa NaMa",
-            "description":"La mejor escuela de baile en el estado, contamos con una gran variedad de ritmos (Salsa, bachata, cumbia, mergengue, hip-hop, etc.). Costo de la mensualidad: $350. Toma tu clase de prueba GRATIS",
-            "footnote":"16:00 - 21:00, Lunes - Domingo"
+            "title":"Provedora Escolar",
+            "description":"Ing de Software Somerville",
+            "footnote":"9:00 - 20:00, Lunes - Sabado"
             },
-            "imageURL":"http://www.casadelbaile.cl/wp-content/uploads/2012/08/profesor-de-salsa-cubana001.jpg"
+            "imageURL":"http://farm8.staticflickr.com/7048/6988523505_8b711d65a6.jpg"
       },
       {
          "id":"candela",
