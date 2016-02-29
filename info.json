@@ -1,7 +1,7 @@
 ﻿{
    "hotspots":[
       {
-         "id":"",
+         "id":"provedora",
          "anchor":{
             "geolocation":{
                "lat":17.0614252,
@@ -16,17 +16,17 @@
             "imageURL":"http://farm8.staticflickr.com/7048/6988523505_8b711d65a6.jpg"
       },
       {
-         "id":"candela",
+         "id":"bibioITO",
          "anchor":{
             "geolocation":{
-            "lat":17.063000204874196,
-            "lon":-96.72043770000005
+            "lat":17.0774763,
+            "lon":-96.7442821
             }
          },
          "text":{
-         "title":"Candela",
-         "Description":"Escuela de Baile para principantes, econ�mica y un lugar muy privado y reservado para aprender a bailar",
-         "footnote":"16:00-20:00  Lunes-Domingo"
+         "title":"Biblioteca Del ITO",
+         "Description":"Libro de Ingenieria de software Somerville 9",
+         "footnote":"8:00-19:00  Lunes-Viernes"
          },
          "imageURL":"http://www.pozuelodetiendas.es/sites/default/files/salon.jpg"
       },
