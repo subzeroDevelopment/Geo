@@ -31,16 +31,16 @@
          "imageURL":"http://www.pozuelodetiendas.es/sites/default/files/salon.jpg"
       },
       {
-         "id":"SweetleDance",
+         "id":"biblioCentral",
          "anchor":{
             "geolocation":{
-               "lat":17.457559,
-               "lon":-97.228024
+               "lat":17.0628698,
+               "lon":-96.7242782
             }
          },
          "text":{
-         "title":"Sweetie Dance",
-         "Description":"La escuela de Ballet por excelencia, ven y conoce nuestras instalaciones. Costo de la mensualidad: $250",
+         "title":"Biblioteca Publica Central Margarita Maza de Juarez",
+         "Description":"biblioteca publica",
          "footnote":"16:00-20:00  Lunes-Viernes"
          },
          "imageURL":"http://www.nodolab.com/wp-content/uploads/2011/08/m-ballet.jpg"
