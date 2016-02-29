@@ -4,8 +4,8 @@
          "id":"provedora",
          "anchor":{
             "geolocation":{
-               "lat":17.0614252,
-               "lon":-96.7209423
+               "lat":17.061540,
+               "lon":-96.722583
             }
             },
             "text":{
@@ -34,8 +34,8 @@
          "id":"biblioCentral",
          "anchor":{
             "geolocation":{
-               "lat":17.0628698,
-               "lon":-96.7242782
+               "lat":17.077588,
+               "lon":-96.744238
             }
          },
          "text":{
@@ -49,8 +49,8 @@
          "id":"iago",
          "anchor":{
             "geolocation":{
-               "lat":17.0663751,
-               "lon":-96.7240473
+               "lat":17.066380,
+               "lon":-96.723714
             }
          },
          "text":{
